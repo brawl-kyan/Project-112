@@ -1,0 +1,27 @@
+body
+{
+  color: blue;
+  background: lightblue;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed brown;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture ,#result_gesture2  
+{
+  color: orange;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
